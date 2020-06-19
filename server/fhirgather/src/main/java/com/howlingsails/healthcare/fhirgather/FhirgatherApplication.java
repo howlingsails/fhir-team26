@@ -1,13 +1,13 @@
-package com.howlingsails.fhirpatientgather;
+package com.howlingsails.healthcare.fhirgather;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FhirPatientGatherApplication {
+public class FhirgatherApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FhirPatientGatherApplication.class, args);
+		SpringApplication.run(FhirgatherApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.howlingsails.fhirpatientgather;
+package com.howlingsails.healthcare.fhirgather;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FhirPatientGatherApplicationTests {
+class FhirgatherApplicationTests {
 
 	@Test
 	void contextLoads() {
